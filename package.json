@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-sharetribe",
+  "version": "0.1.0.alpha.1484681765378",
+  "description": "Sharetribe ESLint configuration",
+  "main": "index.js",
+  "repository": "sharetribe/eslint-config-sharetribe",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "14.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.13.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-react": "^6.9.0"
+  },
+  "engines": {
+    "node": ">= 4"
+  }
+}
