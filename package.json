@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sharetribe",
-  "version": "0.1.0.alpha.1484681765378",
+  "version": "0.1.0",
   "description": "Sharetribe ESLint configuration",
   "main": "index.js",
   "repository": "sharetribe/eslint-config-sharetribe",
