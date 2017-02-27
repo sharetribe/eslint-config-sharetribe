@@ -2,6 +2,19 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [0.3.0] 2017-02-27
+
+### Changed
+
+ - Update `eslint-config-airbnb` and peer dependencies to match the
+   peer dependencies of that package
+ - Turn on the new rule `prefer-promise-reject-errors` as a warning
+ - Turn `no-mixed-operators` rule off
+ - Turn `import/prefer-default-export` rule off
+ - Turn `no-constant-condition` rule off
+ - Turn `arrow-body-style` rule off
+ - Turn `object-shorthand` rule off
+
 ## [0.2.0] 2017-01-19
 
 ### Changed
