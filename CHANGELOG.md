@@ -2,6 +2,19 @@
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [0.4.0] 2017-04-10
+
+ - Change `no-confusing-arrow` into a warning and turn the
+   `allowParens` option off
+ - Turn `new-parens` rule off
+ - Turn `quote-props` rule off
+ - Turn `unicode-bom` rule off
+ - Turn `wrap-iife` rule off
+ - Turn `no-new` rule off
+ - Turn `no-underscore-dangle` rule off
+ - Turn `jsx-a11y/img-redundant-alt` rule off
+ - Add `ignoreRestSiblings: true` option to `no-unused-vars` rule
+
 ## [0.3.0] 2017-02-27
 
 ### Changed
